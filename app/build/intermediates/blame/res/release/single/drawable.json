@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\release\\drawable\\listitembgnormal.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\listitembgnormal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\release\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\release\\drawable\\listitembgpressed.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\listitembgpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\release\\drawable\\counterbg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\counterbg.xml"
+    }
+]

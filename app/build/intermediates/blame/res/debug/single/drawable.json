@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitembgpressed.xml",
+        "source": "C:\\Users\\User\\Desktop\\roothy\\app\\src\\main\\res\\drawable\\listitembgpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitembgnormal.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\listitembgnormal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counterbg.xml",
+        "source": "C:\\Users\\User\\Desktop\\roothy\\app\\src\\main\\res\\drawable\\counterbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counterbg.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\counterbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitembgnormal.xml",
+        "source": "C:\\Users\\User\\Desktop\\roothy\\app\\src\\main\\res\\drawable\\listitembgnormal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listitembgpressed.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\listitembgpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\User\\Desktop\\roothy\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    }
+]

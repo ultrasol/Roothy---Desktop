@@ -1,0 +1,92 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\ROOTHY.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\ROOTHY.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.Design.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.DataGridView.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.Design.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.DataGridView.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.login.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.canliekran.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.hesapkapama.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.mainpage.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.dagiticilar.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.xmlaktarim.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.kasa.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ROOTHY\ROOTHY\obj\Debug\ROOTHY.raportahsilat.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.exe
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.pdb
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\ROOTHY.exe
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\ROOTHY.pdb
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.pdb
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.xml
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.Design.pdb
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.DataGridView.xml
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.pdb
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.xml
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.canliekran.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.dagiticilar.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.Form1.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.hesapkapama.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.kasa.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.login.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.mainpage.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.Properties.Resources.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.raportahsilat.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.xmlaktarim.resources
+C:\Users\HAKAN\Desktop\ROOTHY\ROOTHY\ROOTHY\obj\Debug\ROOTHY.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.exe
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\ROOTHY.exe
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\ROOTHY.pdb
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.Design.dll
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.dll
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.DataGridView.dll
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.dll
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.pdb
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.xml
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Controls.Design.pdb
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.DataGridView.xml
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.pdb
+C:\Users\User\Desktop\ROOTHY\ROOTHY\bin\Debug\VIBlend.WinForms.Utilities.xml
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.canliekran.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.dagiticilar.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.Form1.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.hesapkapama.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.kasa.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.login.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.mainpage.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.Properties.Resources.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.raportahsilat.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.xmlaktarim.resources
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ROOTHY\ROOTHY\obj\Debug\ROOTHY.pdb
+C:\Users\User\Desktop\roothy\ROOTHY\obj\Debug\ROOTHY.txtduzenle.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.exe
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.pdb
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.csprojResolveAssemblyReference.cache
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.canliekran.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.dagiticilar.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.Form1.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.hesapkapama.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.kasa.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.login.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.mainpage.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.Properties.Resources.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.raportahsilat.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.txtduzenle.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.xmlaktarim.resources
+C:\Users\knata\Desktop\projeler\roothy2\obj\Debug\ROOTHY.csproj.GenerateResource.Cache
+C:\Users\knata\Desktop\ROOTHY-DESKTOP\obj\Debug\ROOTHY.exe
+C:\Users\knata\Desktop\ROOTHY-DESKTOP\obj\Debug\ROOTHY.pdb

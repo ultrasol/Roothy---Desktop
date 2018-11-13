@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\salesdetails.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\menu\\salesdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\salesdetails.xml",
+        "source": "C:\\Users\\User\\Desktop\\roothy\\app\\src\\main\\res\\menu\\salesdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\User\\Desktop\\roothy\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\User\\Desktop\\roothy\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\roothy\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
